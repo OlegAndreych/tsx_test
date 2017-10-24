@@ -42,4 +42,4 @@ In the `globalTest` benchmark 4 threads concurrently changes a value of a volati
 In the `threadedTest` benchmark 4 threads change the value of volatile boolean fields in thread-scoped states while synchronizing on a single monitor.
  
 So it seems that in my case benchmark code with RTM enabled operates 1.5 worse than in the case when RTM is disabled when contention is present.  
-On the other hand, same code operates 4.7 times better with RTM in case there's no contention. 
+On the other hand, same code operates 4.7 times more performant with RTM in case there's no contention. 
