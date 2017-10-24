@@ -1,0 +1,2 @@
+JMH S 22 org.sample.MyBenchmark S 53 org.sample.generated.MyBenchmark_threadedTest_jmhTest S 12 threadedTest S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 22 org.sample.MyBenchmark S 51 org.sample.generated.MyBenchmark_globalTest_jmhTest S 10 globalTest S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
