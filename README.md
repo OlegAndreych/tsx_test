@@ -1,6 +1,6 @@
 # tsx_test
 
-These benchmarks intended to provide some  data about what to expect from [RTM](https://en.wikipedia.org/wiki/Transactional_Synchronization_Extensions) in java under contention and without it in comaprison to normal execution with RTM disabled in simplistic case.
+These benchmarks intended to provide some  data about what to expect from [RTM](https://en.wikipedia.org/wiki/Transactional_Synchronization_Extensions) in java under contention and without it in comparison to normal execution with RTM disabled in simplistic case.
 
 ## Environment:
 ### HW
